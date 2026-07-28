@@ -15,67 +15,23 @@ It provides a powerful **ndarray (N-dimensional array)** object that allows deve
 
 Compared to traditional Python lists, NumPy arrays are:
 
-- ⚡ Faster in computation
-- 💾 More memory efficient
-- 📊 Optimized for numerical operations
-- 🔄 Designed for vectorized calculations
+⚡ Faster in computation
+
+ 💾 More memory efficient
+ 
+ 📊 Optimized for numerical operations
+ 
+ 🔄 Designed for vectorized calculations
 
 NumPy is the foundation of many popular Python data libraries including:
 
-- 🐼 Pandas
-- 📈 Matplotlib
-- 🤖 Scikit-learn
-- 🧠 TensorFlow
+🐼 Pandas
 
----
+📈 Matplotlib
 
-# 🎯 Key Uses of NumPy
+🤖 Scikit-learn
 
-NumPy is widely used in Data Science, Machine Learning, and Scientific Computing.
-
-### 🔹 Numerical Calculations
-
-- Addition, subtraction, multiplication, and division of arrays
-- Mathematical functions on large datasets
-- Fast computation without Python loops
-
-### 🔹 Statistical Analysis
-
-Calculate:
-
-- Mean
-- Median
-- Mode
-- Standard Deviation
-- Percentiles
-- Variance
-
-### 🔹 Random Data Generation
-
-Used for:
-
-- Simulation
-- Testing datasets
-- Machine learning experiments
-- Probability distributions
-
-### 🔹 Linear Algebra
-
-Supports:
-
-- Matrix multiplication
-- Determinants
-- Eigenvalues
-- Matrix transformations
-
-### 🔹 Data Processing
-
-Provides:
-
-- Array filtering
-- Data manipulation
-- Boolean masking
-- Vectorized operations
+🧠 TensorFlow
 
 ---
 
