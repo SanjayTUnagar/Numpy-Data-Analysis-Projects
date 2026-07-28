@@ -344,13 +344,19 @@ After completing this project, you will understand:
 
 NumPy is used in:
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🧬 Scientific Research
-- 💹 Financial Modeling
-- 🖼 Image Processing
-- 📈 Data Visualization
-- 🏭 Engineering Simulations
+📊 Data Analytics
+
+🤖 Machine Learning
+
+🧬 Scientific Research
+
+💹 Financial Modeling
+
+🖼 Image Processing
+
+📈 Data Visualization
+
+🏭 Engineering Simulations
 
 ---
 
