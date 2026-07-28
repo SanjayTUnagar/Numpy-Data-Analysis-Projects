@@ -335,7 +335,7 @@ After completing this project, you will understand:
 ✔ Statistical data analysis  
 ✔ Data filtering using arrays  
 ✔ Conditional operations  
-✔ Working with random datasets  
+✔ Working with random datasets   
 ✔ Foundation of Data Analytics using Python  
 
 ---
